@@ -1,0 +1,13 @@
+Login.class
+Home.class
+Register.class
+UserRepositoryJdbcImpl.class
+Admin.class
+Edit.class
+Interfaces\userRepository.class
+collectorInfoJdbcImpl.class
+Data\User.class
+Confirm.class
+Data\Game$GameBuilder.class
+Data\Game.class
+Data\UUID.class
